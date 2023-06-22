@@ -230,7 +230,7 @@ if (hasDriverLicense && hasGoodVision && !isTired) {
 }*/
 
 // Switch Statement
-/*const day = "wednesday";
+const day = "wednesday";
 
 switch (day) {
   case "monday":
@@ -268,7 +268,7 @@ if (day === "monday") {
   console.log("Enjoy the Weekend");
 } else {
   console.log("Not a valid day");
-}*/
+}
 
 // Ternary Operator
 const age = 23;
